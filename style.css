@@ -19,7 +19,7 @@ body{
 }
 
 #header{
-	background-image:url("images/image0.jpg");
+	background-image:url("images/image.jpg");
 	height:200px;
 	width:auto;
 	padding:100px;
@@ -35,8 +35,9 @@ body{
 	position:fixed;
 	height: auto;
 	margin: auto;
-	background-color:#483d43;
-	right:0;
+	background: rgb(72, 61, 67);
+	width: 100%;
+	text-align:center;
 }
 
 #navbar a{
@@ -120,7 +121,7 @@ span{
 }
 
 #linkedin{
-	height: 25px;
+	height: 30px;
 	padding: 5px 0px 0px 0px;
 }
 
@@ -133,7 +134,7 @@ span{
 .space{
 	display:block;
 	clear:both;
-	height:30px;
+	height:5px;
 }
 
 .no_bullet{
